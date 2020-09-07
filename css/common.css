@@ -179,10 +179,14 @@ img {
 
  .footer-container {
    display: flex;
-   justify-content: space-between;
+   justify-content: flex-start;
    align-items: baseline;
  }
 
+
+ .adress-box {
+    margin-right: 70px;
+ }
  
  .footer-contact-link {
     display: flex;
